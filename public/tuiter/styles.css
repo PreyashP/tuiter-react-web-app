@@ -1,0 +1,45 @@
+.wd-offset-body-16 {
+    padding-left: 16px;
+    border-color: rgb( 47, 51, 54 );
+    font-family: Arial;
+}
+.wd-rounded-corners {
+    border-radius: 50px;
+}
+.wd-bg-color-black {
+    background-color: black;
+}
+.wd-bg-color-darkgray {
+    background-color: darkgray;
+}
+.wd-fg-color-white {
+    color: white;
+}
+.wd-fg-color-gray {
+    color: gray;
+}
+
+.wd-fg-color-red {
+    color: red;
+}
+
+.wd-hr-gray {
+    border-color: gray;
+    border-style: solid;
+    background: gray;
+    color: gray;
+}
+
+.wd-hr-hidden {
+    border-color: black;
+    border-style: none;
+}
+
+.wd-plain-text {
+    color: rgb( 110, 118, 125 );
+    text-decoration: none;
+}
+
+.wd-no-text-decoration {
+    text-decoration: none;
+}

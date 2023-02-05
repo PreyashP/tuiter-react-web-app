@@ -1,0 +1,152 @@
+.wd-bookmark-body {
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+}
+
+.wd-flex {
+    display: flex;
+}
+
+.wd-width-656px {
+    min-width: 656px;
+}
+
+.wd-width-max-506px {
+    max-width: 506px;
+}
+
+.wd-width-504 {
+    max-width: 504px;
+}
+
+.wd-border-gray-1px{
+    border: 1px solid rgb(110, 118, 125);
+}
+
+.wd-border-gray-1px-rounded-corners{
+    border: 1px solid rgb(110, 118, 125);
+    border-radius: 15px;
+}
+
+.wd-border-right-gray-1px {
+    border-right: 1px solid rgb(110, 118, 125);
+}
+
+.wd-border-left-gray-1px {
+    border-left: 1px solid rgb(110, 118, 125);
+}
+
+.wd-border-bottom-gray-1px {
+    border-bottom: 1px solid rgb(110, 118, 125);
+}
+
+.wd-padding-left-16px {
+    padding-left: 16px;
+}
+
+.wd-padding-left-icon {
+    padding-left:84px;
+}
+
+.wd-padding-top-12px {
+    padding-top: 12px;
+}
+
+.wd-padding-right-12px {
+    padding-right: 12px;
+}
+
+.wd-image-round-48px {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.wd-image-504px-264px-rounded-top {
+    width: 504px;
+    height: 264px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.wd-float-left {
+    float: left;
+}
+
+.wd-float_right {
+    float: right;
+}
+
+.wd-margin-right-12px{
+    margin-right: 12px;
+}
+
+.wd-margin-right-16px{
+    margin-right: 16px;
+}
+
+.wd-margin-top-12px{
+    margin-top: 12px;
+}
+
+.wd-margin-top-5px{
+    margin-top: 5px;
+}
+
+.wd-margin-bottom-none{
+    margin-bottom: 0;
+}
+
+.wd-margin-none{
+    margin: 0;
+}
+
+.wd-margin-left-16px{
+    margin-left: 16px;
+}
+
+.wd-margin-bottom-12px{
+    margin-bottom: 12px;
+}
+
+.wd-margin-left-60px{
+    margin-left: 60px;
+}
+
+
+.wd-display-inline {
+    display: inline;
+}
+
+.wd-bold {
+    font-weight: bold;
+}
+
+.wd-font-size-13px {
+    font-size: 13px;
+}
+
+.wd-font-size-15px {
+    font-size: 15px;
+}
+
+.wd-font-size-20px {
+    font-size: 20px;
+}
+
+.wd-bolder {
+    font-weight: bolder;
+}
+
+.wd-no-padding {
+    padding: 0;
+}
+
+.wd-padding-bottom-1px {
+    padding-bottom: 1px;
+}
+
+.wd-padding-12px {
+    padding: 12px;
+}
