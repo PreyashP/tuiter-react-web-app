@@ -1,0 +1,125 @@
+.wd-search-bar {
+    width: 95%;
+    text-align: left;
+    margin-bottom: 3px;
+    padding: 10px 10px 10px 40px;
+}
+
+.wd-magnifier-gear-icon {
+    padding: 10px;
+    min-width: 40px;
+    border: 100px;
+}
+
+.wd-icons i{
+    position: absolute;
+}
+
+.wd-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.wd-blue-gear {
+    color: rgb( 29, 161, 242 );
+}
+
+.wd-black-gear {
+    color: black;
+}
+
+.wd-gear-offset {
+    margin-right: 12px;
+}
+
+.wd-topic-images {
+    width: 100px;
+    height: 100px;
+    margin-right: 16px;
+    border-radius: 10px;
+    float: right;
+}
+
+.wd-user-icons {
+    width: 13px;
+    height: 13px;
+    margin-right: 5px;
+}
+
+.main-section img {
+    max-width: 100%;
+    position: relative;
+}
+
+.carousel-caption {
+    text-align: left;
+    bottom: 0;
+    left: 36px;
+    font-size: 35px;
+}
+
+.wd-follow-icon {
+    display: block;
+    max-width: 500%;
+    width: 50px;
+    height: 50px;
+}
+
+.list-group-item {
+    border: 0;
+}
+
+.list-group-item .active{
+    border: 0;
+}
+
+.wd-sidebar .list-group .list-group-item {
+    background-color: rgba(6,6,6,0.09);
+}
+.nav-tabs {
+    border: 0;
+}
+.nav-item .nav-link {
+    color: darkgray;
+    font-weight: bold;
+}
+.nav-tabs .nav-link.active {
+    font-weight: bold;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 10px solid;
+    border-bottom-color: deepskyblue;
+    display:inline-block;
+    width: 63px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+/*active side item focus*/
+.list-group .list-group-item.active {
+    color: black;
+    /*background-color: white;*/
+    background-color: white;
+    font-weight: bold;
+}
+
+.wd-bg-deepskyblue {
+    background-color: deepskyblue;
+}
+
+.wd-bg-tuit-deepskyblue {
+    background-color: deepskyblue;
+    border: none;
+    font-weight: bold;
+}
+
+.fa-tumblr {
+    color: deepskyblue;
+}
+
+.wd-deepskyblue-text {
+    color: deepskyblue;
+}
+
+

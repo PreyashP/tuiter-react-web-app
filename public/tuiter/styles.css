@@ -43,3 +43,19 @@
 .wd-no-text-decoration {
     text-decoration: none;
 }
+
+.wd-bg-color-lightgray-custom {
+    background-color: rgba(6,6,6,0.09);
+}
+
+.wd-border-right-gray-1px {
+    border-right: 1px solid rgb(6,6,6,0.09);
+}
+
+.wd-border-left-gray-1px {
+    border-left: 1px solid rgb(6,6,6,0.09);
+}
+
+.wd-no-border {
+    border: none;
+}
