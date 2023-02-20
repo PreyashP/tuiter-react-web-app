@@ -12,6 +12,13 @@
 .wd-bg-color-darkgray {
     background-color: darkgray;
 }
+
+.wd-handle-text-darkgray {
+    display: inline-block;
+    font-weight: bold;
+    color:darkgray;
+}
+
 .wd-fg-color-white {
     color: white;
 }
@@ -58,4 +65,37 @@
 
 .wd-no-border {
     border: none;
+}
+
+.wd-full-post-prof-pic {
+    border-radius: 50%;
+    width: 150%;
+}
+
+.wd-full-post-pic {
+    border-radius: 3%;
+    width: 100%;
+}
+
+.wd-post-summary-text {
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.wd-flex-reaction-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: darkgrey;
+}
+
+.wd-image-round-48px {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.wd-border-bot-gray-1px {
+    border-bottom: 1px solid grey;
 }
