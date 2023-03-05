@@ -26,19 +26,19 @@ const ExploreComponent = () => {
 <!--        Hyperlink Tabs-->
             <ul class="nav mb-2 mt-2 nav-tabs">
                    <li class="nav-item active ms-1">
-                       <a class="nav-link active" href="../explore/for-you.html">For you</a>
+                       <a class="nav-link active" href="../explore-js/for-you.html">For you</a>
                    </li>
                    <li class="nav-item ms-1">
-                       <a class="nav-link" href="../explore/trending.html">Trending</a>
+                       <a class="nav-link" href="../explore-js/trending.html">Trending</a>
                    </li>
                    <li class="nav-item ms-1">
-                       <a class="nav-link" href="../explore/news.html">News</a>
+                       <a class="nav-link" href="../explore-js/news.html">News</a>
                    </li>
                    <li class="nav-item ms-1">
-                       <a class="nav-link" href="../explore/sports.html">Sports</a>
+                       <a class="nav-link" href="../explore-js/sports.html">Sports</a>
                    </li>
                    <li class="nav-item ms-1">
-                       <a class="nav-link d-none d-md-block" href="../explore/entertainment.html">Entertainment</a>
+                       <a class="nav-link d-none d-md-block" href="../explore-js/entertainment.html">Entertainment</a>
                    </li>
             </ul>
         </div>

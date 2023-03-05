@@ -1,0 +1,30 @@
+.wd-full-post-pic {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.wd-inline-block {
+    display: inline-block;
+}
+
+.wd-flex-reaction-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: darkgrey;
+}
+
+.wd-skyblue {
+    color: #1ca0f2;
+}
+
+.wd-rounded {
+    border-radius:50%;
+    width:60px;
+    height:60px;
+}
+
+.wd-dark-gray {
+    color: darkgray;
+}
+

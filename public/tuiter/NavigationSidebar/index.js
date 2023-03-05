@@ -24,7 +24,7 @@ const NavigationSidebar = (active) => {
 
 
             <!--            Explore Icon-->
-            <a href="../explore/index.html"
+            <a href="../explore-js/index.html"
                class="list-group-item ${active == 'explore' ? 'active' : ''} list-group-item-action border-0">
                 <div class="row">
                     <div class="col-12 col-xl-1 col-xxl-1">
