@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 123,
+    "topic": "Space",
+    "userName": "NASA",
+    "title": "NASA rover lands on Mars and discovers water",
+    "time": "2h",
+    "image": "nasa.webp"
+  },
+  {
+    "_id": 234,
+    "topic": "Travel",
+    "userName": "Virgin Galactic",
+    "title": "Hundreds of flights cancelled during winter storm",
+    "time": "2h",
+    "image": "virgin-galactic.png"
+  },
+  {
+    "_id": 345,
+    "topic": "Energy",
+    "userName": "NASA",
+    "title": "NASA develops new efficient rocket fuel",
+    "time": "4d",
+    "image": "nasa.webp"
+  }
+]

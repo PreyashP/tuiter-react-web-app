@@ -1,0 +1,16 @@
+.wd-flex-impressions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: darkgrey;
+}
+
+
+.wd-full-post-pic {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.wd-skyblue {
+    color: #1DA1F2;
+}

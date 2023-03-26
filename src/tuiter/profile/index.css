@@ -1,0 +1,39 @@
+.wd-mg-left-15px {
+    margin-left: 15px;
+}
+
+.wd-mg-top-100 {
+    margin-top: 100px;
+}
+
+.wd-mg-top-0 {
+    margin-top: 0px;
+}
+
+.wd-width-full {
+    width: 100%;
+}
+
+.wd-profile-banner-image {
+    height: 350px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.image-container {
+    position: relative;
+}
+
+.wd-profile-page-image {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    bottom: -70px;
+    right: 72%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.wd-font-size-22px {
+    font-size: 22px;
+}
