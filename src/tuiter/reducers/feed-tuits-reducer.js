@@ -1,5 +1,5 @@
 import {createSlice} from "@reduxjs/toolkit";
-import feedtuits from '../tuits/feed-tweets.json';
+import feedtuits from '../tuits/feed-tuits.json';
 
 const currentUser = {
     "userName": "JavaScript",
